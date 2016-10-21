@@ -1,0 +1,14 @@
+/* 
+   Localizable.strings
+   Feriados
+
+   Created by mimartinez on 11/02/22.
+   Copyright 2011 Michel Martínez. All rights reserved.
+ */
+
+"Regional" = "Regional";
+"National" = "Nacional";
+"Municipal" = "Municipal";
+"Religious" = "Religioso";
+"Optional" = "Opcional";
+"Updating" = "Updating";
